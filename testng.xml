@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Yahoo Mail Suite" parallel="none">
+    <!--<test verbose="1" name="LoginTest" annotations="JDK">-->
+        <!--<classes>-->
+            <!--<class name="com.epam.selenium.framework.tests.LoginTest"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+    <!--<test verbose="1" name="SendNewEmailTest" annotations="JDK">-->
+        <!--<classes>-->
+            <!--<class name="com.epam.selenium.framework.tests.SendNewEmailTest"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+    <!--<test verbose="1" name="DeleteEmailTest" annotations="JDK">-->
+        <!--<classes>-->
+            <!--<class name="com.epam.selenium.framework.tests.DeleteEmailTest"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+</suite>

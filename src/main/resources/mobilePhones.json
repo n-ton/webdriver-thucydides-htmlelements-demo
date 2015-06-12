@@ -1,0 +1,32 @@
+{
+  "filter": [
+    {
+      "priceFrom": "0",
+      "priceTo": "650",
+      "platform": "неважно",
+      "type": "телефон"
+    }
+  ],
+  "mobilePhones": [
+    {
+      "fullName": "Alcatel One Touch 1010D",
+      "price": "от 589 руб."
+    },
+    {
+      "fullName": "Alcatel OneTouch 1040D",
+      "price": "от 650 руб."
+    },
+    {
+      "fullName": "Alcatel OT-1009X",
+      "price": "590 руб."
+    },
+    {
+      "fullName": "MAXVI C-1",
+      "price": "от 590 руб."
+    },
+    {
+      "fullName": "Alcatel OT-217D",
+      "price": "650 руб."
+    }
+  ]
+}
